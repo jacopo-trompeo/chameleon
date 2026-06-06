@@ -1,0 +1,16 @@
+{
+  "name": "@chameleon/types",
+  "version": "0.1.0",
+  "type": "module",
+  "license": "MIT",
+  "private": true,
+  "exports": {
+    "./events": "./src/events.ts",
+    "./game": "./src/game.ts",
+    "./socket-events": "./src/socket-events.ts",
+    "./constants": "./src/constants.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  }
+}

@@ -1,0 +1,7 @@
+export const MIN_PLAYERS = 4;
+export const MIN_TARGET_SCORE = 1;
+export const MAX_TARGET_SCORE = 20;
+export const DEFAULT_TARGET_SCORE = 5;
+export const LOBBY_CODE_LENGTH = 6;
+export const LOBBY_CODE_ALPHABET = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789";
+export const MAX_PLAYER_NAME_LENGTH = 24;

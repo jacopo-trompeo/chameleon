@@ -1,0 +1,3 @@
+export const PAGE_TRANSITION_DURATION = 0.2;
+export const PAGE_TRANSITION_OFFSET_Y = 8;
+export const PAGE_TRANSITION_EXIT_OFFSET_Y = -8;

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /$
+Disallow: /lobby/
+Disallow: /game/
+
+Sitemap: https://chameleon.example.com/sitemap.xml
