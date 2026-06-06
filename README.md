@@ -7,7 +7,7 @@ given a slightly different question
 ## Prerequisites
 
 - [Bun](https://bun.sh) `1.3+`
-- A Redis instance on `localhost:6379` (a `docker-compose.yml` is provided)
+- A Redis instance running (a `docker-compose.yml` is provided)
 
 ## Setup
 
